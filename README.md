@@ -17,3 +17,4 @@ PROGRAM LIST & STATUS
 
 Sample Class Database --------------------- Stable ✅
 
+Degree Database --------------------------- Stable ✅
